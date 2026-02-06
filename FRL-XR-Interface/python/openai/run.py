@@ -4,7 +4,7 @@ import sys
 import openai 
 # assigning API KEY to the variable 
   
-openai.api_key = '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'
+openai.api_key = 'Your-API-key'
 
 import requests
 
